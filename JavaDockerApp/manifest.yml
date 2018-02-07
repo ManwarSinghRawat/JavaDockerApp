@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: jenkinDemo
+  - name: hello
     path: target/JavaDockerApp-0.0.1-SNAPSHOT.jar
     memory: 1G
     buildpack: https://github.com/cloudfoundry/java-buildpack/#v4.7     
